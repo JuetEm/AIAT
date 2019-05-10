@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+/* Artificial Intelligence Art Therapy CSS Sytle Sheet*/
+
+#logHTag{
+	text-align:right;
+}
+
+#img-container{
+	width:100%;
+	text-align:center;
+	padding:6%;
+	background:#eee;
+	border-radius:6px;
+}
+
+#imgTag{
+	display:inline-block;
+}
+
+#input-container{
+	width:100%;
+	text-align:center;
+	padding:6px;
+}
+
+#imgInput{
+	display:inline-block;
+}
